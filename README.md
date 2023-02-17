@@ -17,15 +17,15 @@ Cash on delivery extension allows the store owners to set COD extra fees rules a
 
 ## What are the benefits of MageComp’s Magento 2 Cash on Delivery Extra Fee extension?
 
-The store owners can easily enable COD order’s surplus fees with Magento 2 Cash on Delivery extension. 
-COD extra fees on a fixed or percentage basis can be calculated smoothly.
-Admin can select the countries for which the COD extra charges are to be implemented.
-Customized COD fee titles can be added by the admin, which will be visible to the customers on storefront and order statements.
-Customers can add the new order status option when selecting the cash-on-delivery payment method.
-The sequence of the COD payment option can also be fixed by the admin.
-Price rules can be set by the admin on COD orders and upload/download as a CSV file effortlessly.
-Display the COD extra fee in the order summary section on the checkout page.
-Allow the customers to check the COD charges from the ‘My Orders’ section on the front end.
-The admin can view COD charges for particular orders from the sales order view page in the backend.
-Mention the COD charges in the credit memo, refund and invoice also.
-Handle Magento 2 store’s COD fees flexibly with Magento 2 Cash On Delivery Extra Fee Extension.
+- The store owners can easily enable COD order’s surplus fees with Magento 2 Cash on Delivery extension. 
+- COD extra fees on a fixed or percentage basis can be calculated smoothly.
+- Admin can select the countries for which the COD extra charges are to be implemented.
+- Customized COD fee titles can be added by the admin, which will be visible to the customers on storefront and order statements.
+- Customers can add the new order status option when selecting the cash-on-delivery payment method.
+- The sequence of the COD payment option can also be fixed by the admin.
+- Price rules can be set by the admin on COD orders and upload/download as a CSV file effortlessly.
+- Display the COD extra fee in the order summary section on the checkout page.
+- Allow the customers to check the COD charges from the ‘My Orders’ section on the front end.
+- The admin can view COD charges for particular orders from the sales order view page in the backend.
+- Mention the COD charges in the credit memo, refund and invoice also.
+- Handle Magento 2 store’s COD fees flexibly with Magento 2 Cash On Delivery Extra Fee Extension.
